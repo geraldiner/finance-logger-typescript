@@ -6,6 +6,7 @@ This is a simple Finance Logger created with Typescript by following [The Net Ni
 
 The key takeaway I have from this tutorial is that TypeScript allows you to use strict types. In other words, you can explicitly specify what type of data variables should be. This in turn makes it easier to spot and fix bugs in the code. It reminds me of when I learned a bit of Java in college, which was also a bit more verbose for my liking.
 
+
 ## Other Projects
 
 Check out other stuff I've worked on:
@@ -28,4 +29,4 @@ Let's talk about self-taught programming, experience design, (computer science) 
 
 **Email**: hello [at] geraldiner [dot] com
 
-I'm also looking for new Full-Stack or Front-End opportunities, so please reach out if you'd like to work together!
+Currently working full-time at <a target="_blank" href="https://nomnomnow.com">Nom Nom</a>, but always open to any cool, interesting projects!
