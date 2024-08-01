@@ -9,6 +9,7 @@ The key takeaway I have from this tutorial is that TypeScript allows you to use 
 
 
 
+
 ## Other Projects
 
 Check out other stuff I've worked on:
